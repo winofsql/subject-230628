@@ -35,7 +35,7 @@
   - select 文の変更
   - insert 文の変更
 ```cs
-            string strQuery = @$"insert into `アニメマスタ` (
+ strQuery = @$"insert into `アニメマスタ` (
 	`アニメコード` 
 	,`アニメ作品タイトル` 
     ,`アニメ分類`
