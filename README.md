@@ -52,4 +52,11 @@
 ```
 
 - ## 固定の分類をコンボボックスに入力
-	- Form1.cs[デザイン] からデータを入力
+	- Form1_Load の内容を変更
+```cs
+this.アニメ分類.Items.Clear();
+this.アニメ分類.Items.Add(new ComboData("SF", "0"));
+this.アニメ分類.Items.Add(new ComboData("ファンタジー", "1"));
+this.アニメ分類.Items.Add(new ComboData("ドラマ", "2"));
+this.アニメ分類.SelectedIndex = 0;
+```
