@@ -22,3 +22,4 @@
   - オリジナルマスタの Create 文でテーブルを作成
   - コンボボックス参照用のオリジナル名称マスタを Create 文を作成
   - 参照用のオリジナル名称マスタを登録
+  ![image](https://github.com/winofsql/subject-230628/assets/1501327/d06f9dac-6b8d-4466-8a64-dd88ca9b477a)
