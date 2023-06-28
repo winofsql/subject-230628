@@ -34,3 +34,19 @@
 - ## SQL の変更
   - select 文の変更
   - insert 文の変更
+```cs
+            string strQuery = @$"insert into `アニメマスタ` (
+	`アニメコード` 
+	,`アニメ作品タイトル` 
+    ,`アニメ分類`
+	,`放映回数` 
+	,`初回放映開始日` 
+)
+ values(
+	'{this.アニメコード.Text}'
+	,'{this.アニメ作品タイトル.Text}'
+	,{((ComboData)this.アニメ分類.SelectedItem).Data}
+	,{this.放映回数.Text}
+	,'{this.初回放映開始日.Value:yyyy/MM/dd}'
+)";
+```
