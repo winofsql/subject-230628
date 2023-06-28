@@ -12,4 +12,4 @@
 - ## 定義ファイル名に含まれるソリューション名部分を pg学籍番号 に変更
   ![image](https://github.com/winofsql/subject-230628/assets/1501327/26630f4e-cb25-400d-b6c9-4712ff333a10)
 
-    
+- ## Visual Studio 2022 で開く( pg学籍番号.sln )    
