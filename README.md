@@ -17,4 +17,5 @@
   ![image](https://github.com/winofsql/subject-230628/assets/1501327/9b256a0e-9352-44e9-933a-7169d4aedfbb)\
   ![image](https://github.com/winofsql/subject-230628/assets/1501327/28efe936-6f16-4658-badc-5db4a343ae6e)
 
-
+- ## XAMPP を起動して MySQL を動かしてください
+  - 社員マスタで動く事を確認します 
