@@ -26,5 +26,6 @@
 
 - ## プログラム内のコントロールの名前等をオリジナルマスタの内容に変更する
   - ラベルの表記の変更\
-  ![image](https://github.com/winofsql/subject-230628/assets/1501327/1ab6e533-0158-43c7-9fc7-8a2acf73aa45)
+  ![image](https://github.com/winofsql/subject-230628/assets/1501327/1ab6e533-0158-43c7-9fc7-8a2acf73aa45)\
+  - コントロールの名称変更
 
