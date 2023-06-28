@@ -28,4 +28,8 @@
   - ラベルの表記の変更\
   ![image](https://github.com/winofsql/subject-230628/assets/1501327/1ab6e533-0158-43c7-9fc7-8a2acf73aa45)\
   - コントロールの名称変更
+  - イベントメソッドの名称変更
+  - Form1.Designer.cs 内のエラー部分の変更
+
+- ## SQL の変更
 
