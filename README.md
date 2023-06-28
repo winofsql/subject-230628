@@ -32,4 +32,5 @@
   - Form1.Designer.cs 内のエラー部分の変更
 
 - ## SQL の変更
-
+  - select 文の変更
+  - insert 文の変更
